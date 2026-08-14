@@ -1,3 +1,9 @@
+---
+title: Introduction
+description: Get started with JavaScript by writing your first program.
+order: 1
+---
+
 # Introduction to JavaScript
 
 JavaScript is a programming language used to make websites interactive.

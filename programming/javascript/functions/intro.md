@@ -1,3 +1,9 @@
+---
+title: Introduction to Functions
+description: Learn how to define and call functions.
+order: 1
+---
+
 # Introduction to Functions
 
 Functions let you reuse a block of code.

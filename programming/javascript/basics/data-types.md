@@ -1,3 +1,9 @@
+---
+title: Data Types
+description: Explore the built-in data types in JavaScript.
+order: 3
+---
+
 # Data Types
 
 JavaScript has several built-in data types.

@@ -1,3 +1,9 @@
+---
+title: Variables
+description: Learn how to store data with let and const.
+order: 2
+---
+
 # Variables
 
 Variables are used to store data.
